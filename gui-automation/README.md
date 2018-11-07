@@ -11,5 +11,7 @@ This app get the mouse cusor x and y axis in every 100 milisecond and display it
 
 ## Requirements
 [Python 3.x](https://www.python.org/)
+
 [Tkinter](https://docs.python.org/3/library/tk.html)
+
 [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/)
